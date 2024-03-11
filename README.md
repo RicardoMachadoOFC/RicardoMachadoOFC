@@ -4,7 +4,7 @@
 - 🖥️ Estudante de Ciência da computação no Instituto Federal de Santa Catarina (IFSC)
 - ✔️ Estudando com foco Python
 - 🔮 Futuramente JAVA e Banco de Dados 
-- 📧 Entre em contato via: cado.machado@hotmail.com
+- 📧 Entre em contato via: cado.machad@gmail.com
 - 💬 Sempre disposto a aprender
 - 🏴󠁩󠁤󠁪󠁷󠁿 Futuro Back-end e possivelmente calvo de estresse com JAVA
 
