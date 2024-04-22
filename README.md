@@ -7,6 +7,7 @@
 - 📧 Entre em contato via: cado.machad@gmail.com
 - 💬 Sempre disposto a aprender
 - 🏴󠁩󠁤󠁪󠁷󠁿 Futuro Back-end e possivelmente calvo de estresse com JAVA
+- 🎵se o que eu sou é também o que eu escolhi ser, aceito a condição
 
 ##
 
