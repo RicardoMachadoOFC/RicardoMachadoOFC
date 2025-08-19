@@ -2,11 +2,10 @@
 
 
 - 🖥️ Estudante de Ciência da computação no Instituto Federal de Santa Catarina (IFSC)
-- ✔️ Estudando com foco java
-- 🔮 Futuramente Banco de Dados 
+- ✔️ Estudando com foco java e Banco de dados
+- 🔮 Futuramente Desenvolvimento de jogos 
 - 📧 Entre em contato via: cado.machad@gmail.com
 - 💬 Sempre disposto a aprender
-- 🏴󠁩󠁤󠁪󠁷󠁿 Futuro Back-end JAVA
 - 🎵se o que eu sou é também o que eu escolhi ser, aceito a condição
 
 ##
